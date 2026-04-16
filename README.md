@@ -2,4 +2,4 @@
 - my home page
 
 # Self-Blog-site
-- [pridelizihao](pridelizihao.github.io)
+- [pridelizihao](https://pridelizihao.github.io)
